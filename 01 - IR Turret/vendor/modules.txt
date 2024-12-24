@@ -1,0 +1,4 @@
+# tinygo.org/x/drivers v0.29.0
+## explicit; go 1.18
+tinygo.org/x/drivers/irremote
+tinygo.org/x/drivers/servo
